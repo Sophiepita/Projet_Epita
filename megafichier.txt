@@ -7,6 +7,7 @@ Liste des villes à visiter :
 Villes déjà visitées :
 - SND : à compléter
 - SEV : Porto, Paris, Münster, Coblence
+		Luxembourg
         Amsterdam, Bruxelles, Londres, 
 		Tokyo, Hong-Kong, Singapour
 
