@@ -2,3 +2,9 @@ Liste des villes à visiter :
 - Budapest
 - Tokyo
 - New York
+
+
+Liste des villes à éviter pour le moment:
+- Moscou
+- Saint-Petersbourg
+- Pékin
