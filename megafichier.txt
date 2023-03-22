@@ -3,6 +3,7 @@ Liste des villes à visiter :
 - Tokyo
 - New York
 - Lisbonne
+- Londres 
 
 Villes déjà visitées :
 - SND : à compléter
