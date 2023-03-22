@@ -10,7 +10,7 @@ Villes déjà visitées :
         Amsterdam, Bruxelles, Londres, 
 		Tokyo, Hong-Kong, Singapour
 
-- XMO : à compléter
+- XMO : Porto
 
 Liste des villes à éviter pour le moment:
 - Moscou
